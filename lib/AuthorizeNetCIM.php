@@ -117,7 +117,6 @@ class AuthorizeNetCIM extends AuthorizeNetRequest
         return $this->_sendRequest();
     }
 
-
     /**
      * Create a customer profile from a transaction.
      *
